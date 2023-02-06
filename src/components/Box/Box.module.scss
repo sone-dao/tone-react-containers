@@ -1,0 +1,21 @@
+.component {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-width: 368px;
+}
+
+.box {
+  background-color: white;
+  border-radius: 14px;
+  font-family: var(--font-copy-main-family);
+  font-size: var(--font-copy-main-size);
+  width: 100%;
+}
+
+.hat {
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  height: 6px;
+  width: 90%;
+}

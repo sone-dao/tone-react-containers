@@ -1,0 +1,9 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-copy-main-family);
+  font-size: var(--font-copy-main-size);
+  height: 100%;
+  padding: 1em;
+  width: 100%;
+}
